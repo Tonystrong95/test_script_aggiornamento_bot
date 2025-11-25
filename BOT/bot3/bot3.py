@@ -3,4 +3,4 @@ import time
 print("Bot3 in esecuzione... (CTRL+C per terminare)")
 
 while True:
-    time.sleep(2)
+    time.sleep(3)
